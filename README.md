@@ -4,7 +4,9 @@
 *This project was made for self practice and learning, hope you find it useful for any purpose.*
 
 AXI4 VIP, suitable for all types of AXI DUTs.
+
 Made with emphasis on UVM methodology, OOP concepts, flexability and reusability covering the protocol requirements using blackbox verification approach.
+
 DUT parameters can be controlled from axi_utils_pkg.sv, However, it may require some changes to suit a specific DUT.
 
 ### 🔗Features
