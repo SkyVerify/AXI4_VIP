@@ -29,6 +29,6 @@ DUT parameters can be controlled from axi_utils_pkg.sv, However, it may require 
 * TCL and shell scripts
 
 ### 🤝Contact
-[My LinkedIn](www.linkedin.com/in/yosef-belyatsky-5163a5173)
+[My LinkedIn](https://www.linkedin.com/in/yosef-belyatsky-5163a5173)
 
 Feel free to contact at yosefbel92@gmail.com
